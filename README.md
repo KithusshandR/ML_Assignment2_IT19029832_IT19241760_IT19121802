@@ -16,4 +16,5 @@ The Classification algorithm is a Supervised Learning technique that is used to 
 
 Web classification is the method of classifying a website main content or topic according to a set of defined categories.
 
-Video demonstration link - https://mysliit-my.sharepoint.com/personal/it19121802_my_sliit_lk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fit19121802%5Fmy%5Fsliit%5Flk%2FDocuments%2FML%5FAssignment2%5FIT19029832%5FIT19241760%5FIT19121802
+Video demonstration link - [https://mysliit-my.sharepoint.com/personal/it19121802_my_sliit_lk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fit19121802%5Fmy%5Fsliit%5Flk%2FDocuments%2FML%5FAssignment2%5FIT19029832%5FIT19241760%5FIT19121802
+](https://mysliit-my.sharepoint.com/:f:/g/personal/it19121802_my_sliit_lk/Elk5hz6WkExHrzfxUistU4ABCuDkSk_tnJy9qxf3AZnWkg?e=3m5dQ5)
